@@ -47,3 +47,7 @@ Thread Stats   Avg      Stdev     Max   +/- Stdev
 Requests/sec:  40575.11
 Transfer/sec:      6.77MB
 ```
+
+## Support
+
+If you have any problems, do not heasitate to open an Issue.
