@@ -41,10 +41,9 @@ Going to http://127.0.0.1:3000/hello/world will now display "Hello world".
 
 ```
 Thread Stats   Avg      Stdev     Max   +/- Stdev
-    Latency     3.13ms    3.35ms  63.42ms   92.98%
-    Req/Sec     2.23k   587.77     3.88k    67.05%
-  1067163 requests in 30.08s, 178.10MB read
-Requests/sec:  35479.09
-Transfer/sec:      5.92MB
-
+    Latency     3.07ms    4.27ms  92.46ms   92.61%
+    Req/Sec     2.56k   801.21    17.84k    67.79%
+  1221250 requests in 30.10s, 203.82MB read
+Requests/sec:  40575.11
+Transfer/sec:      6.77MB
 ```
