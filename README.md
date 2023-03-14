@@ -1,5 +1,5 @@
 # Vizima
-Vizima is a high-performance API micro-framework designed to help you create powerful APIs in PHP. This project is a port of the popular [Mark](https://github.com/passwalls/mark) framework to Swoole, providing even greater performance and scalability.
+Vizima is a high-performance API micro-framework designed to help you create powerful APIs in PHP. This project is a port of the popular [Mark](https://github.com/passwalls/mark) framework to Swoole.
 
 ## Install
 
