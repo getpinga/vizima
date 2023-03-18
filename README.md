@@ -1,4 +1,13 @@
 # Vizima
+
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
+<div style="text-align:center">
+  <img src="https://getpinga.com/vizima.svg" alt="Vizima" width="200">
+</div>
+
 Vizima is a high-performance API micro-framework designed to help you create powerful APIs in PHP. This project is a port of the popular [Mark](https://github.com/passwalls/mark) framework to Swoole.
 
 ## Install
